@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix2
+END
+README.gridmix2
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix2/README.gridmix2
+END
+generateGridmix2data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix2/generateGridmix2data.sh
+END
+gridmix_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix2/gridmix_config.xml
+END
+gridmix-env-2
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix2/gridmix-env-2
+END
+rungridmix_2
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix2/rungridmix_2
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix2/build.xml
+END

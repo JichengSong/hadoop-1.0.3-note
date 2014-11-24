@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen
+END
+TestHistograms.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/TestHistograms.java
+END
+TestPiecewiseLinearInterpolation.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/TestPiecewiseLinearInterpolation.java
+END
+TestZombieJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/TestZombieJob.java
+END
+HistogramRawTestData.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/HistogramRawTestData.java
+END
+TestRumenJobTraces.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/TestRumenJobTraces.java
+END
+ConcatenatedInputFilesDemuxer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/ConcatenatedInputFilesDemuxer.java
+END
+TestParsedLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/TestParsedLine.java
+END
+TestRandomSeedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/TestRandomSeedGenerator.java
+END
+TestConcurrentRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/tools/rumen/TestConcurrentRead.java
+END

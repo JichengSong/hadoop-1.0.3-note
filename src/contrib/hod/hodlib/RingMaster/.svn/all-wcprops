@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/hodlib/RingMaster
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/hodlib/RingMaster/__init__.py
+END
+idleJobTracker.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/hodlib/RingMaster/idleJobTracker.py
+END
+ringMaster.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/hodlib/RingMaster/ringMaster.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix/webdatasort
+END
+webdata_sort.small
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix/webdatasort/webdata_sort.small
+END
+webdata_sort.large
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix/webdatasort/webdata_sort.large
+END
+webdata_sort.medium
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/benchmarks/gridmix/webdatasort/webdata_sort.medium
+END

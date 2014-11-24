@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc
+END
+TestIPCServerResponder.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc/TestIPCServerResponder.java
+END
+TestRPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc/TestRPC.java
+END
+TestSaslRPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc/TestSaslRPC.java
+END
+TestIPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc/TestIPC.java
+END
+MiniRPCBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc/MiniRPCBenchmark.java
+END
+TestMiniRPCBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc/TestMiniRPCBenchmark.java
+END
+TestSocketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/ipc/TestSocketFactory.java
+END

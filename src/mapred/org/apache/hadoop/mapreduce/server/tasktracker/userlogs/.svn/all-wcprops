@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs
+END
+UserLogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/UserLogManager.java
+END
+DeleteJobEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/DeleteJobEvent.java
+END
+UserLogEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/UserLogEvent.java
+END
+JobStartedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/JobStartedEvent.java
+END
+JvmFinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/JvmFinishedEvent.java
+END
+JobCompletedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/JobCompletedEvent.java
+END

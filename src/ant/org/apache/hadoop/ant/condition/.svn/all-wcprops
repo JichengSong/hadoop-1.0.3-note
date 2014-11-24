@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/ant/org/apache/hadoop/ant/condition
+END
+DfsBaseConditional.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/ant/org/apache/hadoop/ant/condition/DfsBaseConditional.java
+END
+DfsZeroLen.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/ant/org/apache/hadoop/ant/condition/DfsZeroLen.java
+END
+DfsExists.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/ant/org/apache/hadoop/ant/condition/DfsExists.java
+END
+DfsIsDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/ant/org/apache/hadoop/ant/condition/DfsIsDir.java
+END

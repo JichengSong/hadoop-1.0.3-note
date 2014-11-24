@@ -1,0 +1,138 @@
+10
+
+dir
+567
+http://svn.d.xiaonei.com/hadoop/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src
+http://svn.d.xiaonei.com/hadoop
+
+
+
+2014-07-29T05:35:24.310733Z
+534
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7101e9bc-2598-4360-9a82-cb1318544075
+
+fixFontsPath.sh
+file
+
+
+
+
+2014-11-24T06:23:22.156124Z
+008e1b2549a6e4249bf9bdb60a54e8e5
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3401
+
+native
+dir
+
+docs
+dir
+
+core
+dir
+
+tools
+dir
+
+contrib
+dir
+
+webapps
+dir
+
+mapred
+dir
+
+c++
+dir
+
+benchmarks
+dir
+
+saveVersion.sh
+file
+
+
+
+
+2014-11-24T06:23:22.156124Z
+03a9c265b30f023e087a245f5a807a5f
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1900
+
+packages
+dir
+
+examples
+dir
+
+test
+dir
+
+ant
+dir
+
+hdfs
+dir
+

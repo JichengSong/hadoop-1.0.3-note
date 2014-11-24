@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/join
+END
+ConfigurableInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/join/ConfigurableInputFormat.java
+END
+TestDatamerge.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/join/TestDatamerge.java
+END
+TestTupleWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/join/TestTupleWritable.java
+END
+IncomparableKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/join/IncomparableKey.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/zlib
+END
+BuiltInZlibInflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/zlib/BuiltInZlibInflater.java
+END
+ZlibCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/zlib/ZlibCompressor.java
+END
+BuiltInZlibDeflater.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/zlib/BuiltInZlibDeflater.java
+END
+BuiltInGzipDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/zlib/BuiltInGzipDecompressor.java
+END
+ZlibDecompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/zlib/ZlibDecompressor.java
+END
+ZlibFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/zlib/ZlibFactory.java
+END

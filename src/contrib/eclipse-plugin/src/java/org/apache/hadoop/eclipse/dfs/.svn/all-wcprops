@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs
+END
+ActionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/ActionProvider.java
+END
+DFSFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSFolder.java
+END
+DFSPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSPath.java
+END
+DFSFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSFile.java
+END
+DFSLocationsRoot.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSLocationsRoot.java
+END
+DFSActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSActions.java
+END
+DFSMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSMessage.java
+END
+DFSContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSContentProvider.java
+END
+DFSLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSLocation.java
+END
+DFSContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/dfs/DFSContent.java
+END

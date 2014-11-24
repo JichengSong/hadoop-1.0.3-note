@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/lib/db
+END
+TestDBJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/lib/db/TestDBJob.java
+END
+TestConstructQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/lib/db/TestConstructQuery.java
+END

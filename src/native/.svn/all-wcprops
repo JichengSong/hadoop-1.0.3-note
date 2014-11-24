@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/aclocal.m4
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/.autom4te.cfg
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/README
+END
+packageBinNativeHadoop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/packageBinNativeHadoop.sh
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/configure.ac
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/acinclude.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/INSTALL
+END
+packageNativeHadoop.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/packageNativeHadoop.sh
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/NEWS
+END

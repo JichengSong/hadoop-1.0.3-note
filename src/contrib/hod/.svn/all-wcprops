@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod
+END
+config.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/config.txt
+END
+getting_started.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/getting_started.txt
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/CHANGES.txt
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/ivy.xml
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/README
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hod/build.xml
+END

@@ -1,0 +1,1007 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred
+END
+TestJobRetire.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobRetire.java
+END
+TestLRUCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestLRUCache.java
+END
+TestRecoveryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestRecoveryManager.java
+END
+TestMiniMRClientCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRClientCluster.java
+END
+TestKillSubProcesses.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestKillSubProcesses.java
+END
+TestJobInProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobInProgressListener.java
+END
+TestLinuxTaskControllerLaunchArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestLinuxTaskControllerLaunchArgs.java
+END
+TestReduceTaskFetchFail.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestReduceTaskFetchFail.java
+END
+TestJobSysDirWithDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobSysDirWithDFS.java
+END
+test.tgz
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/test.tgz
+END
+TestJobHistoryVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobHistoryVersion.java
+END
+TestMiniMRTaskTempDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRTaskTempDir.java
+END
+TestNodeRefresh.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestNodeRefresh.java
+END
+TestJobTrackerStart.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobTrackerStart.java
+END
+TestQueueManagerForJobKillAndNonDefaultQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestQueueManagerForJobKillAndNonDefaultQueue.java
+END
+TestJobStatusPersistency.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobStatusPersistency.java
+END
+TestTaskCommit.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskCommit.java
+END
+TestGetSplitHosts.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestGetSplitHosts.java
+END
+TestTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTextInputFormat.java
+END
+TestQueueManagerForJobKillAndJobPriority.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestQueueManagerForJobKillAndJobPriority.java
+END
+TestUserDefinedCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestUserDefinedCounters.java
+END
+GenericMRLoadGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/GenericMRLoadGenerator.java
+END
+TestJobCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobCleanup.java
+END
+TestCollect.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestCollect.java
+END
+TestCompressedEmptyMapOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestCompressedEmptyMapOutputs.java
+END
+EmptyInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/EmptyInputFormat.java
+END
+TestUserLogCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestUserLogCleanup.java
+END
+FakeObjectUtilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/FakeObjectUtilities.java
+END
+TestTTResourceReporting.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTTResourceReporting.java
+END
+TestJobTrackerRestart.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobTrackerRestart.java
+END
+TestWebUIAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestWebUIAuthorization.java
+END
+TestCommandLineJobSubmission.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestCommandLineJobSubmission.java
+END
+TestKillSubProcessesWithLinuxTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestKillSubProcessesWithLinuxTaskController.java
+END
+TestSequenceFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSequenceFileInputFormat.java
+END
+TestJobQueueTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobQueueTaskScheduler.java
+END
+testscript.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/testscript.txt
+END
+ClusterMapReduceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/ClusterMapReduceTestCase.java
+END
+TestCombineOutputCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestCombineOutputCollector.java
+END
+TestJobTrackerRestartWithLostTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobTrackerRestartWithLostTracker.java
+END
+HadoopTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/HadoopTestCase.java
+END
+TestFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestFileInputFormat.java
+END
+TestMapRed.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMapRed.java
+END
+TestNodeBlacklisting.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestNodeBlacklisting.java
+END
+TestInputPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestInputPath.java
+END
+test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/test.txt
+END
+TestMiniMRMapRedDebugScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRMapRedDebugScript.java
+END
+TestKeyValueTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestKeyValueTextInputFormat.java
+END
+test.tar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/test.tar
+END
+TestTaskLauncher.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskLauncher.java
+END
+TestShuffleExceptionCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestShuffleExceptionCount.java
+END
+TestTaskLauncherThreaded.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskLauncherThreaded.java
+END
+TestJvmManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJvmManager.java
+END
+MiniMRClientCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/MiniMRClientCluster.java
+END
+TestNodeHealthService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestNodeHealthService.java
+END
+TestSequenceFileInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSequenceFileInputFilter.java
+END
+TestMiniMRLocalFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRLocalFS.java
+END
+TestMiniMRDFSSort.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRDFSSort.java
+END
+TestLocalMRNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestLocalMRNotification.java
+END
+TestCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestCounters.java
+END
+test.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/test.tar.gz
+END
+TestTaskStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskStatus.java
+END
+TestAuditLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestAuditLogger.java
+END
+ReliabilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/ReliabilityTest.java
+END
+TestQueueMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestQueueMetrics.java
+END
+TestMiniMRBringup.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRBringup.java
+END
+TestKillCompletedJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestKillCompletedJob.java
+END
+MiniMRClientClusterFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/MiniMRClientClusterFactory.java
+END
+TestEmptyJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestEmptyJob.java
+END
+ThreadedMapBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/ThreadedMapBenchmark.java
+END
+TestReduceTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestReduceTask.java
+END
+TestJobTrackerSafeMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobTrackerSafeMode.java
+END
+UtilsForTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/UtilsForTests.java
+END
+TestJobHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobHistory.java
+END
+TestJobCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobCounters.java
+END
+MiniMRClusterAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/MiniMRClusterAdapter.java
+END
+TestSortedRanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSortedRanges.java
+END
+TestMapOutputType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMapOutputType.java
+END
+TestTaskTrackerMemoryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskTrackerMemoryManager.java
+END
+TestMiniMRWithDFSWithDistinctUsers.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRWithDFSWithDistinctUsers.java
+END
+TestDuplicateArchiveFileCachedURLMinicluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestDuplicateArchiveFileCachedURLMinicluster.java
+END
+TestMultiFileSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMultiFileSplit.java
+END
+TestTaskTrackerLogIndex.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskTrackerLogIndex.java
+END
+TestWritableJobConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestWritableJobConf.java
+END
+TestJobACLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobACLs.java
+END
+TestTextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTextOutputFormat.java
+END
+BigMapOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/BigMapOutput.java
+END
+TestReduceFetch.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestReduceFetch.java
+END
+TestFileOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestFileOutputCommitter.java
+END
+TestControlledMapReduceJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestControlledMapReduceJob.java
+END
+TestDuplicateArchiveFileCachedURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestDuplicateArchiveFileCachedURL.java
+END
+MRCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/MRCaching.java
+END
+TestLocalizationWithLinuxTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestLocalizationWithLinuxTaskController.java
+END
+TestNetworkedJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestNetworkedJob.java
+END
+SortValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/SortValidator.java
+END
+TestMultipleLevelCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMultipleLevelCaching.java
+END
+TestSetupWorkDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSetupWorkDir.java
+END
+TestSetupAndCleanupFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSetupAndCleanupFailure.java
+END
+TestJobKillAndFail.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobKillAndFail.java
+END
+TestLimitTasksPerJobTaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestLimitTasksPerJobTaskScheduler.java
+END
+TestJobExecutionAsDifferentUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobExecutionAsDifferentUser.java
+END
+TestBadRecords.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestBadRecords.java
+END
+TestRackAwareTaskPlacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestRackAwareTaskPlacement.java
+END
+TestQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestQueueManager.java
+END
+TestJobHistoryParsing.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobHistoryParsing.java
+END
+NotificationTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/NotificationTestCase.java
+END
+WordCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/WordCount.java
+END
+TestJobQueueInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobQueueInformation.java
+END
+TestIFileStreams.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestIFileStreams.java
+END
+TestShuffleJobToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestShuffleJobToken.java
+END
+TestFieldSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestFieldSelection.java
+END
+TestSequenceFileAsTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSequenceFileAsTextInputFormat.java
+END
+TestFileInputFormatPathFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestFileInputFormatPathFilter.java
+END
+TestIsolationRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestIsolationRunner.java
+END
+MiniMRCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/MiniMRCluster.java
+END
+TestLostTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestLostTracker.java
+END
+TestSubmitJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSubmitJob.java
+END
+TestMiniMRClasspath.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRClasspath.java
+END
+TestSpecialCharactersInOutputPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSpecialCharactersInOutputPath.java
+END
+test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/test.jar
+END
+TestRawHistoryFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestRawHistoryFile.java
+END
+TestAdminOperationsProtocolWithServiceAuthorization.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestAdminOperationsProtocolWithServiceAuthorization.java
+END
+TestTrackerBlacklistAcrossJobs.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTrackerBlacklistAcrossJobs.java
+END
+TestTaskOutputSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskOutputSize.java
+END
+MRBench.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/MRBench.java
+END
+TestTaskLogsTruncater.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskLogsTruncater.java
+END
+TestJobDirCleanup.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobDirCleanup.java
+END
+TestJobHistoryServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobHistoryServer.java
+END
+ClusterWithLinuxTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/ClusterWithLinuxTaskController.java
+END
+TestTaskLimits.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskLimits.java
+END
+ControlledMapReduceJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/ControlledMapReduceJob.java
+END
+TestMapredHeartbeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMapredHeartbeat.java
+END
+TestMapCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMapCollection.java
+END
+TestMultipleTextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMultipleTextOutputFormat.java
+END
+TestMRServerPorts.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMRServerPorts.java
+END
+TestTaskFail.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskFail.java
+END
+TestJvmReuse.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJvmReuse.java
+END
+test.zip
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/test.zip
+END
+TestParallelInitialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestParallelInitialization.java
+END
+TestMiniMRDFSCaching.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRDFSCaching.java
+END
+TestJettyBugMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJettyBugMonitor.java
+END
+DummyMemoryCalculatorPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/DummyMemoryCalculatorPlugin.java
+END
+TestCustomOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestCustomOutputCommitter.java
+END
+TestJavaSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJavaSerialization.java
+END
+TestMultiFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMultiFileInputFormat.java
+END
+TestResourceEstimation.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestResourceEstimation.java
+END
+TestClusterStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestClusterStatus.java
+END
+TestLinuxTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestLinuxTaskController.java
+END
+TestJobInProgress.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobInProgress.java
+END
+TestTaskEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskEnvironment.java
+END
+TestTaskTrackerLocalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTaskTrackerLocalization.java
+END
+TestClusterMRNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestClusterMRNotification.java
+END
+TestSequenceFileAsBinaryInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSequenceFileAsBinaryInputFormat.java
+END
+TestComparators.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestComparators.java
+END
+TestIndexCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestIndexCache.java
+END
+TestSequenceFileAsBinaryOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestSequenceFileAsBinaryOutputFormat.java
+END
+TestQueueAclsForCurrentUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestQueueAclsForCurrentUser.java
+END
+TestStatisticsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestStatisticsCollector.java
+END
+TestClusterMapReduceTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestClusterMapReduceTestCase.java
+END
+TestFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestFileOutputFormat.java
+END
+TestJobClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobClient.java
+END
+TestJobTrackerInstrumentation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobTrackerInstrumentation.java
+END
+TestJobName.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobName.java
+END
+TestMapredSystemDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMapredSystemDir.java
+END
+TestTrackerDistributedCacheManagerWithLinuxTaskController.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestTrackerDistributedCacheManagerWithLinuxTaskController.java
+END
+TestMiniMRChildTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRChildTask.java
+END
+TestJobHistoryConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestJobHistoryConfig.java
+END
+TestMiniMRWithDFS.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapred/TestMiniMRWithDFS.java
+END

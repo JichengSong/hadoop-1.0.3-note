@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred
+END
+TestFairScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairScheduler.java
+END
+FakeSchedulable.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/FakeSchedulable.java
+END
+TestComputeFairShares.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestComputeFairShares.java
+END
+TestFairSchedulerSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestFairSchedulerSystem.java
+END
+TestCapBasedLoadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/test/org/apache/hadoop/mapred/TestCapBasedLoadManager.java
+END

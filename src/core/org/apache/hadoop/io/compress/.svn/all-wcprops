@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/525/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress
+END
+DecompressorStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/DecompressorStream.java
+END
+DefaultCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/DefaultCodec.java
+END
+BlockCompressorStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/BlockCompressorStream.java
+END
+SplittableCompressionCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/SplittableCompressionCodec.java
+END
+BZip2Codec.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/525/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/BZip2Codec.java
+END
+CompressionCodecFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/CompressionCodecFactory.java
+END
+BlockDecompressorStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/BlockDecompressorStream.java
+END
+Compressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/Compressor.java
+END
+CompressionInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/CompressionInputStream.java
+END
+CompressionOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/CompressionOutputStream.java
+END
+CompressionCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/CompressionCodec.java
+END
+Decompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/Decompressor.java
+END
+GzipCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/GzipCodec.java
+END
+CodecPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/CodecPool.java
+END
+SnappyCodec.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/SnappyCodec.java
+END
+CompressorStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/CompressorStream.java
+END
+SplitCompressionInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/SplitCompressionInputStream.java
+END
+DoNotPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/compress/DoNotPool.java
+END

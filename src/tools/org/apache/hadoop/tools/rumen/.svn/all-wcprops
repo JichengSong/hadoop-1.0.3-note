@@ -1,0 +1,503 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen
+END
+MapAttempt20LineHistoryEventEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/MapAttempt20LineHistoryEventEmitter.java
+END
+CDFRandomGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/CDFRandomGenerator.java
+END
+TaskAttempt20LineEventEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskAttempt20LineEventEmitter.java
+END
+RewindableInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/RewindableInputStream.java
+END
+LoggedNetworkTopology.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LoggedNetworkTopology.java
+END
+LoggedSingleRelativeRanking.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LoggedSingleRelativeRanking.java
+END
+TaskUpdatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskUpdatedEvent.java
+END
+ParsedHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ParsedHost.java
+END
+JobTraceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobTraceReader.java
+END
+SingleEventEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/SingleEventEmitter.java
+END
+TaskFinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskFinishedEvent.java
+END
+JhCounterGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JhCounterGroup.java
+END
+JobStoryProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobStoryProducer.java
+END
+JobBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobBuilder.java
+END
+ReduceAttemptFinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ReduceAttemptFinishedEvent.java
+END
+JsonObjectMapperParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JsonObjectMapperParser.java
+END
+LoggedTaskAttempt.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LoggedTaskAttempt.java
+END
+EventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/EventType.java
+END
+TopologyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TopologyBuilder.java
+END
+DeepCompare.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/DeepCompare.java
+END
+JhCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JhCounters.java
+END
+JobPriorityChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobPriorityChangeEvent.java
+END
+ParsedLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ParsedLine.java
+END
+JobFinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobFinishedEvent.java
+END
+DeskewedJobTraceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/DeskewedJobTraceReader.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Pair.java
+END
+LoggedJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LoggedJob.java
+END
+JobSubmittedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobSubmittedEvent.java
+END
+HistoryEventEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/HistoryEventEmitter.java
+END
+ClusterTopologyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ClusterTopologyReader.java
+END
+Pre21JobHistoryConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Pre21JobHistoryConstants.java
+END
+ParsedConfigFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ParsedConfigFile.java
+END
+ReduceTaskAttemptInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ReduceTaskAttemptInfo.java
+END
+AbstractClusterStory.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/AbstractClusterStory.java
+END
+JobUnsuccessfulCompletionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobUnsuccessfulCompletionEvent.java
+END
+JobConfPropertyNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobConfPropertyNames.java
+END
+MapTaskAttemptInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/MapTaskAttemptInfo.java
+END
+JobStory.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobStory.java
+END
+ZombieCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ZombieCluster.java
+END
+Task20LineHistoryEventEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Task20LineHistoryEventEmitter.java
+END
+Histogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Histogram.java
+END
+PossiblyDecompressedInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/PossiblyDecompressedInputStream.java
+END
+DefaultInputDemuxer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/DefaultInputDemuxer.java
+END
+ReduceAttempt20LineHistoryEventEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ReduceAttempt20LineHistoryEventEmitter.java
+END
+JobInfoChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobInfoChangeEvent.java
+END
+TaskAttemptUnsuccessfulCompletionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskAttemptUnsuccessfulCompletionEvent.java
+END
+LoggedDiscreteCDF.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LoggedDiscreteCDF.java
+END
+JhCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JhCounter.java
+END
+Job20LineHistoryEventEmitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Job20LineHistoryEventEmitter.java
+END
+HistoryEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/HistoryEvent.java
+END
+Outputter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Outputter.java
+END
+TreePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TreePath.java
+END
+JobConfigurationParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobConfigurationParser.java
+END
+DefaultOutputter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/DefaultOutputter.java
+END
+ClusterStory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ClusterStory.java
+END
+LoggedTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LoggedTask.java
+END
+ZombieJobProducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ZombieJobProducer.java
+END
+MapAttemptFinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/MapAttemptFinishedEvent.java
+END
+InputDemuxer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/InputDemuxer.java
+END
+LoggedLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LoggedLocation.java
+END
+Version20LogInterfaceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Version20LogInterfaceUtils.java
+END
+DeepInequalityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/DeepInequalityException.java
+END
+JobHistoryParserFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobHistoryParserFactory.java
+END
+JsonObjectMapperWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JsonObjectMapperWriter.java
+END
+HadoopLogsAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/HadoopLogsAnalyzer.java
+END
+TraceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TraceBuilder.java
+END
+JobHistoryParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobHistoryParser.java
+END
+JobInitedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobInitedEvent.java
+END
+TaskFailedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskFailedEvent.java
+END
+MachineNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/MachineNode.java
+END
+Hadoop20JHParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Hadoop20JHParser.java
+END
+TaskAttemptFinishedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskAttemptFinishedEvent.java
+END
+TaskAttemptInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskAttemptInfo.java
+END
+TaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskInfo.java
+END
+ZombieJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/ZombieJob.java
+END
+LogRecordType.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/LogRecordType.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/Node.java
+END
+RackNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/RackNode.java
+END
+RandomSeedGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/RandomSeedGenerator.java
+END
+JobStatusChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/JobStatusChangedEvent.java
+END
+TaskAttemptStartedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskAttemptStartedEvent.java
+END
+TaskStartedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/TaskStartedEvent.java
+END
+CDFPiecewiseLinearRandomGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/tools/org/apache/hadoop/tools/rumen/CDFPiecewiseLinearRandomGenerator.java
+END

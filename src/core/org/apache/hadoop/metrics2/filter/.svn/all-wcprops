@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/metrics2/filter
+END
+AbstractPatternFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/metrics2/filter/AbstractPatternFilter.java
+END
+GlobFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/metrics2/filter/GlobFilter.java
+END
+RegexFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/metrics2/filter/RegexFilter.java
+END

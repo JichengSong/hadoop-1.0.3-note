@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/retry
+END
+RetryInvocationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/retry/RetryInvocationHandler.java
+END
+RetryPolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/retry/RetryPolicies.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/retry/package.html
+END
+RetryPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/retry/RetryPolicy.java
+END
+RetryProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/io/retry/RetryProxy.java
+END

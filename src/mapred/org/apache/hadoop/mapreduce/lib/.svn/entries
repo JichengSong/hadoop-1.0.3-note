@@ -1,0 +1,52 @@
+10
+
+dir
+567
+http://svn.d.xiaonei.com/hadoop/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib
+http://svn.d.xiaonei.com/hadoop
+
+
+
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7101e9bc-2598-4360-9a82-cb1318544075
+
+db
+dir
+
+fieldsel
+dir
+
+reduce
+dir
+
+partition
+dir
+
+jobcontrol
+dir
+
+map
+dir
+
+input
+dir
+
+output
+dir
+

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming
+END
+TestStreamDataProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamDataProtocol.java
+END
+TestStreamingCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingCounters.java
+END
+FailApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/FailApp.java
+END
+UniqApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/UniqApp.java
+END
+UtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/UtilTest.java
+END
+TestStreamingTaskLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingTaskLog.java
+END
+TestMultipleArchiveFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestMultipleArchiveFiles.java
+END
+TestStreamingBadRecords.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingBadRecords.java
+END
+TestDumpTypedBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestDumpTypedBytes.java
+END
+TestStreamingExitStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingExitStatus.java
+END
+TestStreaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreaming.java
+END
+TypedBytesMapApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TypedBytesMapApp.java
+END
+TestStreamXmlRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamXmlRecordReader.java
+END
+RawBytesMapApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/RawBytesMapApp.java
+END
+TestStreamingEmptyInpNonemptyOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingEmptyInpNonemptyOut.java
+END
+TestMultipleCachefiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestMultipleCachefiles.java
+END
+TestStreamReduceNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamReduceNone.java
+END
+TestTypedBytesStreaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestTypedBytesStreaming.java
+END
+TestStreamingCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingCombiner.java
+END
+CatApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/CatApp.java
+END
+TestStreamingSeparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingSeparator.java
+END
+TestRawBytesStreaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestRawBytesStreaming.java
+END
+TestStreamingStderr.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingStderr.java
+END
+ValueCountReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/ValueCountReduce.java
+END
+TrAppReduce.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TrAppReduce.java
+END
+TypedBytesReduceApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TypedBytesReduceApp.java
+END
+TestSymLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestSymLink.java
+END
+TrApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TrApp.java
+END
+RawBytesReduceApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/RawBytesReduceApp.java
+END
+TestGzipInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestGzipInput.java
+END
+TestLoadTypedBytes.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestLoadTypedBytes.java
+END
+TestStreamingStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingStatus.java
+END
+TestStreamingKeyValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingKeyValue.java
+END
+TestStreamingFailure.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingFailure.java
+END
+TestAutoInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestAutoInputFormat.java
+END
+StreamAggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/StreamAggregate.java
+END
+TestStreamAggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamAggregate.java
+END
+TestStreamingAsDifferentUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestStreamingAsDifferentUser.java
+END
+TestUlimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/TestUlimit.java
+END
+StderrApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/StderrApp.java
+END
+UlimitApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/org/apache/hadoop/streaming/UlimitApp.java
+END

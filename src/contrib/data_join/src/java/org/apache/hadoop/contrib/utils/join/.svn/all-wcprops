@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join
+END
+DataJoinJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join/DataJoinJob.java
+END
+JobBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join/JobBase.java
+END
+DataJoinMapperBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join/DataJoinMapperBase.java
+END
+TaggedMapOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join/TaggedMapOutput.java
+END
+ArrayListBackedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join/ArrayListBackedIterator.java
+END
+DataJoinReducerBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join/DataJoinReducerBase.java
+END
+ResetableIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/java/org/apache/hadoop/contrib/utils/join/ResetableIterator.java
+END

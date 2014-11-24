@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/task-controller
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/task-controller/configure.ac
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/task-controller/.gitignore
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/task-controller/Makefile.am
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/task-controller/.autom4te.cfg
+END

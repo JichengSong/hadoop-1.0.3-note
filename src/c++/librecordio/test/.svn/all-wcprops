@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/librecordio/test
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/librecordio/test/Makefile
+END
+test.hh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/librecordio/test/test.hh
+END
+test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/librecordio/test/test.cc
+END
+testFromJava.hh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/librecordio/test/testFromJava.hh
+END
+test.jr
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/librecordio/test/test.jr
+END
+testFromJava.cc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/c++/librecordio/test/testFromJava.cc
+END

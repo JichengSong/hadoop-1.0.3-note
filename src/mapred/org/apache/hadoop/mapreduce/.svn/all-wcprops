@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce
+END
+TaskType.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/TaskType.java
+END
+StatusReporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/StatusReporter.java
+END
+TaskAttemptContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/TaskAttemptContext.java
+END
+InputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/InputFormat.java
+END
+ClusterMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/ClusterMetrics.java
+END
+TaskInputOutputContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/TaskInputOutputContext.java
+END
+OutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/OutputFormat.java
+END
+JobSubmissionFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/JobSubmissionFiles.java
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/Job.java
+END
+InputSplit.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/InputSplit.java
+END
+RecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/RecordWriter.java
+END
+ReduceContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/ReduceContext.java
+END
+JobStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/JobStatus.java
+END
+TaskAttemptID.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/TaskAttemptID.java
+END
+JobContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/JobContext.java
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/Counter.java
+END
+TaskID.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/TaskID.java
+END
+MapContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/MapContext.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/Mapper.java
+END
+OutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/OutputCommitter.java
+END
+JobID.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/JobID.java
+END
+Reducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/Reducer.java
+END
+JobACL.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/JobACL.java
+END
+ID.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/ID.java
+END
+CounterGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/CounterGroup.java
+END
+Partitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/Partitioner.java
+END
+RecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/RecordReader.java
+END
+Counters.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/Counters.java
+END

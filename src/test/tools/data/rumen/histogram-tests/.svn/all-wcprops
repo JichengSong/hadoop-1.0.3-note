@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests
+END
+gold-only-one-value.json
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/gold-only-one-value.json
+END
+gold-one-value-many-repeats.json
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/gold-one-value-many-repeats.json
+END
+input-three-values.json
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/input-three-values.json
+END
+input-minimal.json
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/input-minimal.json
+END
+gold-three-values.json
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/gold-three-values.json
+END
+input-only-one-value.json
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/input-only-one-value.json
+END
+gold-minimal.json
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/gold-minimal.json
+END
+input-one-value-many-repeats.json
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/histogram-tests/input-one-value-many-repeats.json
+END

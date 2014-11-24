@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/io/compress/snappy
+END
+SnappyCompressor.c
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/io/compress/snappy/SnappyCompressor.c
+END
+SnappyDecompressor.c
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/io/compress/snappy/SnappyDecompressor.c
+END
+org_apache_hadoop_io_compress_snappy.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/io/compress/snappy/org_apache_hadoop_io_compress_snappy.h
+END

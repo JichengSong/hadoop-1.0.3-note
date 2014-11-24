@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/cli
+END
+testConf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/cli/testConf.xml
+END
+TestCLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/cli/TestCLI.java
+END
+testConf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/cli/testConf.xsl
+END

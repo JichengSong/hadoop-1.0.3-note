@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output
+END
+FileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat.java
+END
+LazyOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/LazyOutputFormat.java
+END
+SequenceFileAsBinaryOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/SequenceFileAsBinaryOutputFormat.java
+END
+TextOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/TextOutputFormat.java
+END
+FilterOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/FilterOutputFormat.java
+END
+MultipleOutputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/MultipleOutputs.java
+END
+SequenceFileOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/SequenceFileOutputFormat.java
+END
+FileOutputFormat_Counter.properties
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputFormat_Counter.properties
+END
+FileOutputCommitter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/FileOutputCommitter.java
+END
+NullOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapreduce/lib/output/NullOutputFormat.java
+END

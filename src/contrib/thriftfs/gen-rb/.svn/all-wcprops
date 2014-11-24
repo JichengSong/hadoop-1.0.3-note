@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-rb
+END
+hadoopfs_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-rb/hadoopfs_types.rb
+END
+hadoopfs_constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-rb/hadoopfs_constants.rb
+END
+ThriftHadoopFileSystem.rb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-rb/ThriftHadoopFileSystem.rb
+END

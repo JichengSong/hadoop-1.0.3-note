@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/filecache
+END
+TestTrackerDistributedCacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/filecache/TestTrackerDistributedCacheManager.java
+END
+TestMRWithDistributedCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/filecache/TestMRWithDistributedCache.java
+END

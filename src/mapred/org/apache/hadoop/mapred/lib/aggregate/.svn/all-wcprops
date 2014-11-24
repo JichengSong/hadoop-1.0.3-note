@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate
+END
+StringValueMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/StringValueMin.java
+END
+ValueAggregatorBaseDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorBaseDescriptor.java
+END
+StringValueMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/StringValueMax.java
+END
+ValueAggregatorJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorJob.java
+END
+ValueAggregatorDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorDescriptor.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/package.html
+END
+ValueAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregator.java
+END
+LongValueSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/LongValueSum.java
+END
+UniqValueCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/UniqValueCount.java
+END
+ValueAggregatorMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorMapper.java
+END
+ValueAggregatorReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorReducer.java
+END
+ValueHistogram.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueHistogram.java
+END
+UserDefinedValueAggregatorDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/UserDefinedValueAggregatorDescriptor.java
+END
+DoubleValueSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/DoubleValueSum.java
+END
+ValueAggregatorCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorCombiner.java
+END
+LongValueMin.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/LongValueMin.java
+END
+LongValueMax.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/LongValueMax.java
+END
+ValueAggregatorJobBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/mapred/org/apache/hadoop/mapred/lib/aggregate/ValueAggregatorJobBase.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/index.html
+END
+jobconf.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobconf.jsp
+END
+jobdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobdetails.jsp
+END
+jobtasks.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobtasks.jsp
+END
+gethistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/gethistory.jsp
+END
+taskstats.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/taskstats.jsp
+END
+job_authorization_error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/job_authorization_error.jsp
+END
+jobqueue_details.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobqueue_details.jsp
+END
+jobfailures.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobfailures.jsp
+END
+jobtracker.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobtracker.jsp
+END
+machines.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/machines.jsp
+END
+taskdetails.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/taskdetails.jsp
+END
+jobblacklistedtrackers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobblacklistedtrackers.jsp
+END
+jobhistory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/webapps/job/jobhistory.jsp
+END

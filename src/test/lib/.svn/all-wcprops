@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/lib
+END
+ftplet-api-1.0.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/lib/ftplet-api-1.0.0-SNAPSHOT.jar
+END
+ftpserver-core-1.0.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/lib/ftpserver-core-1.0.0-SNAPSHOT.jar
+END
+mina-core-2.0.0-M2-20080407.124109-12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/lib/mina-core-2.0.0-M2-20080407.124109-12.jar
+END
+ftpserver-server-1.0.0-SNAPSHOT.jar
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/lib/ftpserver-server-1.0.0-SNAPSHOT.jar
+END

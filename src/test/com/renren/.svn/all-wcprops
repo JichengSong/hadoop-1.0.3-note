@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hadoop/!svn/ver/534/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren
+END
+HashRowKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/531/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/HashRowKeyGenerator.java
+END
+TestRead.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/534/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/TestRead.java
+END
+HashChoreWoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/531/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/HashChoreWoker.java
+END
+TestBlockDecompressorStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/474/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/TestBlockDecompressorStream.java
+END
+Bz2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/510/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/Bz2Test.java
+END
+SplitKeysCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/531/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/SplitKeysCalculator.java
+END
+TestHBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hadoop/!svn/ver/531/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/TestHBase.java
+END
+RowKeyGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/531/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/RowKeyGenerator.java
+END
+TestAppend.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/hadoop/!svn/ver/479/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/TestAppend.java
+END
+TestWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hadoop/!svn/ver/531/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/com/renren/TestWrite.java
+END

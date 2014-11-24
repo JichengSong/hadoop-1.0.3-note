@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input
+END
+TestKeyValueTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestKeyValueTextInputFormat.java
+END
+TestCombineFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestCombineFileInputFormat.java
+END
+TestFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestFileInputFormat.java
+END
+TestMRSequenceFileAsBinaryInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestMRSequenceFileAsBinaryInputFormat.java
+END
+TestMRSequenceFileAsTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestMRSequenceFileAsTextInputFormat.java
+END
+TestDelegatingInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestDelegatingInputFormat.java
+END
+TestMRSequenceFileInputFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestMRSequenceFileInputFilter.java
+END
+TestMultipleInputs.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestMultipleInputs.java
+END
+TestNLineInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/lib/input/TestNLineInputFormat.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/security/token/delegation
+END
+TestDelegationToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/security/token/delegation/TestDelegationToken.java
+END
+TestDelegationTokenAuthMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/org/apache/hadoop/mapreduce/security/token/delegation/TestDelegationTokenAuthMethod.java
+END

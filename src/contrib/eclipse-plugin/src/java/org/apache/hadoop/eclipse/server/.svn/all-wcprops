@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server
+END
+HadoopServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/HadoopServer.java
+END
+JarModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/JarModule.java
+END
+HadoopPathPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/HadoopPathPage.java
+END
+HadoopJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/HadoopJob.java
+END
+ConfProp.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/ConfProp.java
+END
+IJobListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/server/IJobListener.java
+END

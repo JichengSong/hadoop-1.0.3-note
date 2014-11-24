@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/aclocal.m4
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/ltmain.sh
+END
+.autom4te.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/.autom4te.cfg
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/install-sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/configure.ac
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/depcomp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/config.guess
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/examples/pipes/README.txt
+END

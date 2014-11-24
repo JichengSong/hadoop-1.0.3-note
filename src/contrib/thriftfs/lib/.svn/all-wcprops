@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/lib
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/lib/README
+END
+hadoopthriftapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/lib/hadoopthriftapi.jar
+END
+Thrift.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/lib/Thrift.LICENSE
+END
+libthrift.jar
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/lib/libthrift.jar
+END

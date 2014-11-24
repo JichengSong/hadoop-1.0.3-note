@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/cn/src/documentation/skins/common/xslt/fo
+END
+document-to-fo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/cn/src/documentation/skins/common/xslt/fo/document-to-fo.xsl
+END
+d2fo.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/cn/src/documentation/skins/common/xslt/fo/d2fo.xml
+END
+pdfoutline.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/cn/src/documentation/skins/common/xslt/fo/pdfoutline.xsl
+END
+footerinfo.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/cn/src/documentation/skins/common/xslt/fo/footerinfo.xsl
+END

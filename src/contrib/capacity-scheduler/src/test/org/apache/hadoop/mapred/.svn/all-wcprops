@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred
+END
+TestCapacitySchedulerConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacitySchedulerConf.java
+END
+ClusterWithCapacityScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/ClusterWithCapacityScheduler.java
+END
+TestCapacityScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacityScheduler.java
+END
+TestJobTrackerRestartWithCS.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestJobTrackerRestartWithCS.java
+END
+TestCapacitySchedulerWithJobTracker.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacitySchedulerWithJobTracker.java
+END
+TestCapacitySchedulerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/capacity-scheduler/src/test/org/apache/hadoop/mapred/TestCapacitySchedulerServlet.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol
+END
+DisallowedDatanodeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DisallowedDatanodeException.java
+END
+UpgradeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/UpgradeCommand.java
+END
+BlockMetaDataInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlockMetaDataInfo.java
+END
+NamenodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/NamenodeProtocol.java
+END
+NamespaceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/NamespaceInfo.java
+END
+BlockCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlockCommand.java
+END
+DatanodeRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeRegistration.java
+END
+KeyUpdateCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/KeyUpdateCommand.java
+END
+BalancerBandwidthCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BalancerBandwidthCommand.java
+END
+DatanodeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeCommand.java
+END
+DatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/DatanodeProtocol.java
+END
+InterDatanodeProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/InterDatanodeProtocol.java
+END
+BlockRecoveryInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlockRecoveryInfo.java
+END
+BlocksWithLocations.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/protocol/BlocksWithLocations.java
+END

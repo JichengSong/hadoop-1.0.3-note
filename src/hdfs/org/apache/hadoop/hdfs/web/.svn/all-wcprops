@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/web
+END
+ParamFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/web/ParamFilter.java
+END
+AuthFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/web/AuthFilter.java
+END
+JsonUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/web/JsonUtil.java
+END
+WebHdfsFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/web/WebHdfsFileSystem.java
+END
+KerberosUgiAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/web/KerberosUgiAuthenticator.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/security/token/delegation
+END
+AbstractDelegationTokenSecretManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSecretManager.java
+END
+AbstractDelegationTokenSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenSelector.java
+END
+AbstractDelegationTokenIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/security/token/delegation/AbstractDelegationTokenIdentifier.java
+END
+DelegationKey.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/security/token/delegation/DelegationKey.java
+END

@@ -1,0 +1,104 @@
+10
+
+dir
+567
+http://svn.d.xiaonei.com/hadoop/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop
+http://svn.d.xiaonei.com/hadoop
+
+
+
+2014-06-18T07:15:51.573560Z
+525
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7101e9bc-2598-4360-9a82-cb1318544075
+
+ipc
+dir
+
+util
+dir
+
+record
+dir
+
+http
+dir
+
+log
+dir
+
+conf
+dir
+
+net
+dir
+
+metrics2
+dir
+
+HadoopVersionAnnotation.java
+file
+
+
+
+
+2014-11-24T06:23:18.096124Z
+d195a1829918cad54ef4f83ec868679b
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1747
+
+classification
+dir
+
+jmx
+dir
+
+metrics
+dir
+
+security
+dir
+
+io
+dir
+
+fs
+dir
+

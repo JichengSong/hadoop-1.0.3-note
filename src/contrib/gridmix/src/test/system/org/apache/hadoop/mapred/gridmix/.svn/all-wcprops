@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix
+END
+GridMixConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/GridMixConfig.java
+END
+TestGridMixDataGeneration.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/TestGridMixDataGeneration.java
+END
+UtilsForGridmix.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/UtilsForGridmix.java
+END
+GridMixRunMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/GridMixRunMode.java
+END
+TestGridMixFilePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/gridmix/src/test/system/org/apache/hadoop/mapred/gridmix/TestGridMixFilePool.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf
+END
+taskcontroller.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/taskcontroller.cfg
+END
+hdfs-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/hdfs-site.xml
+END
+hadoop-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/hadoop-policy.xml
+END
+capacity-scheduler.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/capacity-scheduler.xml
+END
+core-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/core-site.xml
+END
+hadoop-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/hadoop-env.sh
+END
+mapred-queue-acls.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/mapred-queue-acls.xml
+END
+mapred-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/mapred-site.xml
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/commons-logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/log4j.properties
+END
+hadoop-metrics2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/packages/templates/conf/hadoop-metrics2.properties
+END

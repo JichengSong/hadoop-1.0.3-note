@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system
+END
+JobInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/JobInfo.java
+END
+TTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTClient.java
+END
+TTTaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTTaskInfo.java
+END
+TTProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTProtocol.java
+END
+JTClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/JTClient.java
+END
+TaskInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TaskInfo.java
+END
+JTProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/JTProtocol.java
+END
+MRCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/MRCluster.java
+END
+MRDaemonClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/MRDaemonClient.java
+END
+FinishTaskControlAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/FinishTaskControlAction.java
+END
+TTInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/java/org/apache/hadoop/mapreduce/test/system/TTInfo.java
+END

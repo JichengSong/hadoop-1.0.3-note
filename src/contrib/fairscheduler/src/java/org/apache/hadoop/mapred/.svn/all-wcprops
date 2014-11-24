@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/431/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred
+END
+TaskSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/TaskSelector.java
+END
+PoolManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/430/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/PoolManager.java
+END
+TaskType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/TaskType.java
+END
+PoolSchedulable.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/431/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/PoolSchedulable.java
+END
+JobSchedulable.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/JobSchedulable.java
+END
+FifoJobComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/FifoJobComparator.java
+END
+LocalityLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/LocalityLevel.java
+END
+DefaultTaskSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/DefaultTaskSelector.java
+END
+Pool.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/Pool.java
+END
+LoadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/LoadManager.java
+END
+Schedulable.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/Schedulable.java
+END
+SchedulingAlgorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/431/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/SchedulingAlgorithms.java
+END
+FairScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/431/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/FairScheduler.java
+END
+FairSchedulerEventLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/FairSchedulerEventLog.java
+END
+FairSchedulerServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/FairSchedulerServlet.java
+END
+WeightAdjuster.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/WeightAdjuster.java
+END
+NewJobWeightBooster.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/NewJobWeightBooster.java
+END
+SchedulingMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/SchedulingMode.java
+END
+AllocationConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/AllocationConfigurationException.java
+END
+CapBasedLoadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fairscheduler/src/java/org/apache/hadoop/mapred/CapBasedLoadManager.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch
+END
+StartHadoopLaunchTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/StartHadoopLaunchTabGroup.java
+END
+MutexRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/MutexRule.java
+END
+LocalMapReduceLaunchTabGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/LocalMapReduceLaunchTabGroup.java
+END
+HadoopApplicationLaunchShortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/launch/HadoopApplicationLaunchShortcut.java
+END

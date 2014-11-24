@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests
+END
+MapSideDiskSpill.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests/MapSideDiskSpill.java
+END
+ReducesReExecutionImpact.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests/ReducesReExecutionImpact.java
+END
+postex_diagnosis_tests.xml
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests/postex_diagnosis_tests.xml
+END
+ReadingHDFSFilesAsSideEffect.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests/ReadingHDFSFilesAsSideEffect.java
+END
+BalancedReducePartitioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests/BalancedReducePartitioning.java
+END
+MapsReExecutionImpact.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/postexdiagnosis/tests/MapsReExecutionImpact.java
+END

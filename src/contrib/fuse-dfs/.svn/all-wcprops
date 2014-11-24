@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/build.xml
+END
+global_header.mk
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/global_header.mk
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/configure.ac
+END
+global_footer.mk
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/global_footer.mk
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/acinclude.m4
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/bootstrap.sh
+END
+ivy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/ivy.xml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/fuse-dfs/README
+END

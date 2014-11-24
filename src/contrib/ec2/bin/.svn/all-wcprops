@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin
+END
+delete-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/delete-hadoop-cluster
+END
+cmd-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/cmd-hadoop-cluster
+END
+create-hadoop-image
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/create-hadoop-image
+END
+launch-hadoop-master
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/launch-hadoop-master
+END
+launch-hadoop-slaves
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/launch-hadoop-slaves
+END
+terminate-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/terminate-hadoop-cluster
+END
+hadoop-ec2-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/hadoop-ec2-env.sh
+END
+hadoop-ec2
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/hadoop-ec2
+END
+launch-hadoop-cluster
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/launch-hadoop-cluster
+END
+hadoop-ec2-init-remote.sh
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/hadoop-ec2-init-remote.sh
+END
+list-hadoop-clusters
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/ec2/bin/list-hadoop-clusters
+END

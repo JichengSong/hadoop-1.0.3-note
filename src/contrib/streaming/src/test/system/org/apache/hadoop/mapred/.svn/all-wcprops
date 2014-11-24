@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred
+END
+TestLinuxTaskControllerOtherUserStreamingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestLinuxTaskControllerOtherUserStreamingJob.java
+END
+TestStreamingJobProcessTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestStreamingJobProcessTree.java
+END
+TestTaskKillingOfStreamingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/test/system/org/apache/hadoop/mapred/TestTaskKillingOfStreamingJob.java
+END

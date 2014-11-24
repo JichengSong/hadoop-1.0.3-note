@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred
+END
+JTProtocolAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/JTProtocolAspect.aj
+END
+MapReducePolicyProviderAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/MapReducePolicyProviderAspect.aj
+END
+StatisticsCollectorAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/StatisticsCollectorAspect.aj
+END
+TaskAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/TaskAspect.aj
+END
+JobInProgressAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/JobInProgressAspect.aj
+END
+JobTrackerAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/JobTrackerAspect.aj
+END
+JobClientAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/JobClientAspect.aj
+END
+TaskTrackerAspect.aj
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/system/aop/org/apache/hadoop/mapred/TaskTrackerAspect.aj
+END

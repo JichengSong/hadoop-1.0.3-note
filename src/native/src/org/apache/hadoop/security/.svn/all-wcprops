@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/security
+END
+JniBasedUnixGroupsMapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/security/JniBasedUnixGroupsMapping.c
+END
+JniBasedUnixGroupsNetgroupMapping.c
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/security/JniBasedUnixGroupsNetgroupMapping.c
+END
+getGroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/native/src/org/apache/hadoop/security/getGroup.c
+END

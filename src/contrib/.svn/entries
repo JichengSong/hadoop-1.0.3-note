@@ -1,0 +1,147 @@
+10
+
+dir
+567
+http://svn.d.xiaonei.com/hadoop/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib
+http://svn.d.xiaonei.com/hadoop
+
+
+
+2014-05-19T09:51:23.525323Z
+471
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7101e9bc-2598-4360-9a82-cb1318544075
+
+ha
+dir
+
+data_join
+dir
+
+bash-tab-completion
+dir
+
+streaming
+dir
+
+thriftfs
+dir
+
+build-contrib.xml
+file
+
+
+
+
+2014-11-24T06:23:21.048124Z
+fad0bcd3d2f2c261506226c782381366
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18374
+
+build.xml
+file
+
+
+
+
+2014-11-24T06:23:21.048124Z
+e37602ebc7ac8e4a21bc660b3c8cb392
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4229
+
+gridmix
+dir
+
+index
+dir
+
+ec2
+dir
+
+capacity-scheduler
+dir
+
+hod
+dir
+
+fuse-dfs
+dir
+
+vaidya
+dir
+
+test
+dir
+
+fairscheduler
+dir
+
+eclipse-plugin
+dir
+
+failmon
+dir
+
+hdfsproxy
+dir
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join
+END
+SampleDataJoinMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/SampleDataJoinMapper.java
+END
+SampleDataJoinReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/SampleDataJoinReducer.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/README.txt
+END
+SampleTaggedMapOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/data_join/src/examples/org/apache/hadoop/contrib/utils/join/SampleTaggedMapOutput.java
+END

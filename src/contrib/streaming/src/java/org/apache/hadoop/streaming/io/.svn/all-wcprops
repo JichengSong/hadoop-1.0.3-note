@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io
+END
+TextOutputReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/TextOutputReader.java
+END
+TypedBytesInputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/TypedBytesInputWriter.java
+END
+InputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/InputWriter.java
+END
+RawBytesInputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/RawBytesInputWriter.java
+END
+TypedBytesOutputReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/TypedBytesOutputReader.java
+END
+TextInputWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/TextInputWriter.java
+END
+OutputReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/OutputReader.java
+END
+IdentifierResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/IdentifierResolver.java
+END
+RawBytesOutputReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/streaming/src/java/org/apache/hadoop/streaming/io/RawBytesOutputReader.java
+END

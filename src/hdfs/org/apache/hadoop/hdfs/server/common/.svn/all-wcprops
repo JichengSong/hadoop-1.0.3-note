@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common
+END
+HdfsConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/HdfsConstants.java
+END
+UpgradeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeManager.java
+END
+Storage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/Storage.java
+END
+UpgradeStatusReport.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeStatusReport.java
+END
+InconsistentFSStateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/InconsistentFSStateException.java
+END
+UpgradeObjectCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeObjectCollection.java
+END
+Upgradeable.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/Upgradeable.java
+END
+IncorrectVersionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/IncorrectVersionException.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/Util.java
+END
+UpgradeObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/UpgradeObject.java
+END
+GenerationStamp.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/GenerationStamp.java
+END
+StorageInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/server/common/StorageInfo.java
+END

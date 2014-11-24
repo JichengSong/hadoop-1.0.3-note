@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/hadoop/!svn/ver/471/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs
+END
+forrest.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/forrest.properties
+END
+relnotes.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/relnotes.py
+END
+status.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/status.xml
+END
+releasenotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/docs/releasenotes.html
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy
+END
+ProxyForwardServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyForwardServlet.java
+END
+ProxyStreamFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyStreamFile.java
+END
+LdapIpDirFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/LdapIpDirFilter.java
+END
+ProxyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyUtil.java
+END
+ProxyFileDataServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyFileDataServlet.java
+END
+ProxyListPathsServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyListPathsServlet.java
+END
+KerberosAuthorizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/KerberosAuthorizationFilter.java
+END
+AuthorizationFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/AuthorizationFilter.java
+END
+HdfsProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/HdfsProxy.java
+END
+ProxyFileForward.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyFileForward.java
+END
+ProxyFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyFilter.java
+END
+ProxyHttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/hdfsproxy/src/java/org/apache/hadoop/hdfsproxy/ProxyHttpServer.java
+END

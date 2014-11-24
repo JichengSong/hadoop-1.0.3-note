@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/preferences
+END
+PreferenceConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/preferences/PreferenceConstants.java
+END
+MapReducePreferencePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/preferences/MapReducePreferencePage.java
+END
+PreferenceInitializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/preferences/PreferenceInitializer.java
+END

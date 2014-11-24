@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya
+END
+DiagnosticTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/DiagnosticTest.java
+END
+JobDiagnoser.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/JobDiagnoser.java
+END
+vaidya.sh
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/vaidya/src/java/org/apache/hadoop/vaidya/vaidya.sh
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/499/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc
+END
+VersionedProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/VersionedProtocol.java
+END
+Status.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/Status.java
+END
+RPC.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/499/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/RPC.java
+END
+Server.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/495/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/Server.java
+END
+ConnectionHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/ConnectionHeader.java
+END
+RemoteException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/RemoteException.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/498/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/Client.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/core/org/apache/hadoop/ipc/package.html
+END

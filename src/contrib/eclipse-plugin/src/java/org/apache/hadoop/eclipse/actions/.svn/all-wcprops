@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions
+END
+DFSActionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/DFSActionImpl.java
+END
+EditLocationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/EditLocationAction.java
+END
+OpenNewMRClassWizardAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/OpenNewMRClassWizardAction.java
+END
+OpenNewMRProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/OpenNewMRProjectAction.java
+END
+NewLocationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/eclipse-plugin/src/java/org/apache/hadoop/eclipse/actions/NewLocationAction.java
+END

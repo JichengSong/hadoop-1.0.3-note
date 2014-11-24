@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/485/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs
+END
+HsftpFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/HsftpFileSystem.java
+END
+ChecksumDistributedFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/ChecksumDistributedFileSystem.java
+END
+DFSUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/DFSUtil.java
+END
+DFSClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/hadoop/!svn/ver/482/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/DFSClient.java
+END
+ByteRangeInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/ByteRangeInputStream.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/package.html
+END
+DFSConfigKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/DFSConfigKeys.java
+END
+HDFSPolicyProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/HDFSPolicyProvider.java
+END
+HftpFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/HftpFileSystem.java
+END
+DistributedFileSystem.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/DistributedFileSystem.java
+END
+BlockReaderLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/hdfs/org/apache/hadoop/hdfs/BlockReaderLocal.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp
+END
+hadoopfs_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp/hadoopfs_types.h
+END
+hadoopfs_constants.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp/hadoopfs_constants.cpp
+END
+ThriftHadoopFileSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp/ThriftHadoopFileSystem.cpp
+END
+hadoopfs_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp/hadoopfs_constants.h
+END
+ThriftHadoopFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp/ThriftHadoopFileSystem.h
+END
+hadoopfs_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp/hadoopfs_types.cpp
+END
+ThriftHadoopFileSystem_server.skeleton.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs/gen-cpp/ThriftHadoopFileSystem_server.skeleton.cpp
+END

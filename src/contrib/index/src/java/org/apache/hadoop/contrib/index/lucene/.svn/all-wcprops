@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene
+END
+MixedDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/MixedDirectory.java
+END
+ShardWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/ShardWriter.java
+END
+RAMDirectoryUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/RAMDirectoryUtil.java
+END
+FileSystemDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/FileSystemDirectory.java
+END
+LuceneUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/LuceneUtil.java
+END
+LuceneIndexFileNameFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/LuceneIndexFileNameFilter.java
+END
+MixedDeletionPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/index/src/java/org/apache/hadoop/contrib/index/lucene/MixedDeletionPolicy.java
+END

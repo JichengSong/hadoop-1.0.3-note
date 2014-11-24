@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test
+END
+truncated-topology-output
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/truncated-topology-output
+END
+counters-test-trace.json.gz
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/counters-test-trace.json.gz
+END
+sample-job-tracker-logs.gz
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/sample-job-tracker-logs.gz
+END
+truncated-job-tracker-log
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/truncated-job-tracker-log
+END
+goldFoldedTrace.json.gz
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/goldFoldedTrace.json.gz
+END
+job-tracker-logs-topology-output
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/job-tracker-logs-topology-output
+END
+v20-single-input-log-event-classes.text.gz
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/v20-single-input-log-event-classes.text.gz
+END
+job-tracker-logs-trace-output.gz
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/job-tracker-logs-trace-output.gz
+END
+dispatch-trace-output.json.gz
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/dispatch-trace-output.json.gz
+END
+v20-single-input-log.gz
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/v20-single-input-log.gz
+END
+sample-conf.file.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/sample-conf.file.xml
+END
+truncated-trace-output
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/truncated-trace-output
+END
+folder-input-trace.json.gz
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/folder-input-trace.json.gz
+END
+dispatch-sample-v20-jt-log.gz
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/dispatch-sample-v20-jt-log.gz
+END
+dispatch-topology-output.json.gz
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/test/tools/data/rumen/small-trace-test/dispatch-topology-output.json.gz
+END

@@ -1,0 +1,172 @@
+10
+
+dir
+567
+http://svn.d.xiaonei.com/hadoop/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/src/contrib/thriftfs
+http://svn.d.xiaonei.com/hadoop
+
+
+
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7101e9bc-2598-4360-9a82-cb1318544075
+
+if
+dir
+
+gen-php
+dir
+
+build.xml
+file
+
+
+
+
+2014-11-24T06:23:20.512124Z
+073809c26e414c8baa80684ea0c2a8d5
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2555
+
+gen-py
+dir
+
+lib
+dir
+
+ivy.xml
+file
+
+
+
+
+2014-11-24T06:23:20.512124Z
+04d9c38f2c4b8e0a4d275e3bdc697757
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1521
+
+ivy
+dir
+
+gen-perl
+dir
+
+gen-rb
+dir
+
+test
+dir
+
+src
+dir
+
+scripts
+dir
+
+gen-java
+dir
+
+gen-cpp
+dir
+
+gen-cocoa
+dir
+
+README
+file
+
+
+
+
+2014-11-24T06:23:20.512124Z
+d604242011ccab10edff05f9d9bae85d
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1551
+
+gen-st
+dir
+
