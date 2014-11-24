@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use
+END
+Block.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/Block.html
+END
+S3FileSystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/S3FileSystem.html
+END
+VersionMismatchException.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/VersionMismatchException.html
+END
+INode.html
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/INode.html
+END
+FileSystemStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/FileSystemStore.html
+END
+S3Credentials.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/S3Credentials.html
+END
+S3Exception.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/S3Exception.html
+END
+MigrationTool.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/MigrationTool.html
+END
+S3FileSystemException.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/fs/s3/class-use/S3FileSystemException.html
+END

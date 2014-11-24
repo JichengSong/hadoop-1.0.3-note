@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join
+END
+Parser.NumToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/Parser.NumToken.html
+END
+CompositeInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/CompositeInputFormat.html
+END
+Parser.html
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/Parser.html
+END
+CompositeInputSplit.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/CompositeInputSplit.html
+END
+StreamBackedIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/StreamBackedIterator.html
+END
+OuterJoinRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/OuterJoinRecordReader.html
+END
+Parser.TType.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/Parser.TType.html
+END
+OverrideRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/OverrideRecordReader.html
+END
+Parser.StrToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/Parser.StrToken.html
+END
+ComposableRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/ComposableRecordReader.html
+END
+Parser.Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/Parser.Token.html
+END
+InnerJoinRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/InnerJoinRecordReader.html
+END
+ComposableInputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/ComposableInputFormat.html
+END
+ResetableIterator.EMPTY.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/ResetableIterator.EMPTY.html
+END
+ArrayListBackedIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/ArrayListBackedIterator.html
+END
+Parser.Node.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/Parser.Node.html
+END
+ResetableIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/ResetableIterator.html
+END
+Parser.NodeToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/Parser.NodeToken.html
+END
+JoinRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/JoinRecordReader.html
+END
+MultiFilterRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/MultiFilterRecordReader.html
+END
+TupleWritable.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/TupleWritable.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/package-frame.html
+END
+CompositeRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/CompositeRecordReader.html
+END
+WrappedRecordReader.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/WrappedRecordReader.html
+END
+JoinRecordReader.JoinDelegationIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/JoinRecordReader.JoinDelegationIterator.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/package-summary.html
+END
+MultiFilterRecordReader.MultiFilterDelegationIterator.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/MultiFilterRecordReader.MultiFilterDelegationIterator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/join/package-tree.html
+END

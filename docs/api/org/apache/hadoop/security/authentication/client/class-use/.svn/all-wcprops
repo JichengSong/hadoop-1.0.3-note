@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/client/class-use
+END
+AuthenticationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/client/class-use/AuthenticationException.html
+END
+AuthenticatedURL.Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/client/class-use/AuthenticatedURL.Token.html
+END
+AuthenticatedURL.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/client/class-use/AuthenticatedURL.html
+END
+KerberosAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/client/class-use/KerberosAuthenticator.html
+END
+Authenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/client/class-use/Authenticator.html
+END
+PseudoAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/client/class-use/PseudoAuthenticator.html
+END

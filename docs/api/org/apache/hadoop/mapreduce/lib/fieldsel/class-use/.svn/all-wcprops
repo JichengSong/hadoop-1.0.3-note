@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/fieldsel/class-use
+END
+FieldSelectionHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/fieldsel/class-use/FieldSelectionHelper.html
+END
+FieldSelectionMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/fieldsel/class-use/FieldSelectionMapper.html
+END
+FieldSelectionReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/fieldsel/class-use/FieldSelectionReducer.html
+END

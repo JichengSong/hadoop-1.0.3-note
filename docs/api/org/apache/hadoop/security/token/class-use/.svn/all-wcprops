@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use
+END
+TokenInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/TokenInfo.html
+END
+SecretManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/SecretManager.html
+END
+Token.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/Token.html
+END
+Token.TrivialRenewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/Token.TrivialRenewer.html
+END
+TokenSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/TokenSelector.html
+END
+TokenIdentifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/TokenIdentifier.html
+END
+SecretManager.InvalidToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/SecretManager.InvalidToken.html
+END
+TokenRenewer.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/token/class-use/TokenRenewer.html
+END

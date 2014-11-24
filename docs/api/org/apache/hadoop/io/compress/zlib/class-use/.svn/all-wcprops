@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use
+END
+BuiltInZlibInflater.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/BuiltInZlibInflater.html
+END
+ZlibCompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.html
+END
+BuiltInZlibDeflater.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/BuiltInZlibDeflater.html
+END
+ZlibDecompressor.CompressionHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibDecompressor.CompressionHeader.html
+END
+ZlibCompressor.CompressionStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.CompressionStrategy.html
+END
+ZlibCompressor.CompressionLevel.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.CompressionLevel.html
+END
+BuiltInGzipDecompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/BuiltInGzipDecompressor.html
+END
+ZlibCompressor.CompressionHeader.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibCompressor.CompressionHeader.html
+END
+ZlibDecompressor.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibDecompressor.html
+END
+ZlibFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/io/compress/zlib/class-use/ZlibFactory.html
+END

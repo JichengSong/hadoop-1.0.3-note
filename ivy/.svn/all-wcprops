@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy
+END
+hadoop-streaming-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-streaming-pom-template.xml
+END
+hadoop-client-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-client-pom-template.xml
+END
+hadoop-examples-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-examples-pom-template.xml
+END
+hadoop-minicluster-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-minicluster-pom-template.xml
+END
+ivysettings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/ivysettings.xml
+END
+libraries.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/libraries.properties
+END
+hadoop-test-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-test-pom-template.xml
+END
+hadoop-tools-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-tools-pom-template.xml
+END
+hadoop-core.pom
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-core.pom
+END
+ivy-2.1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/ivy-2.1.0.jar
+END
+hadoop-core-pom-template.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/ivy/hadoop-core-pom-template.xml
+END

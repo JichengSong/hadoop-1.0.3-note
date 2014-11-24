@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use
+END
+FileOutputCommitter.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FileOutputCommitter.html
+END
+NullOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/NullOutputFormat.html
+END
+FileOutputFormat.Counter.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FileOutputFormat.Counter.html
+END
+SequenceFileAsBinaryOutputFormat.WritableValueBytes.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/SequenceFileAsBinaryOutputFormat.WritableValueBytes.html
+END
+FileOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FileOutputFormat.html
+END
+LazyOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/LazyOutputFormat.html
+END
+SequenceFileAsBinaryOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/SequenceFileAsBinaryOutputFormat.html
+END
+TextOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/TextOutputFormat.html
+END
+FilterOutputFormat.FilterRecordWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FilterOutputFormat.FilterRecordWriter.html
+END
+FilterOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/FilterOutputFormat.html
+END
+MultipleOutputs.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/MultipleOutputs.html
+END
+TextOutputFormat.LineRecordWriter.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/TextOutputFormat.LineRecordWriter.html
+END
+SequenceFileOutputFormat.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/lib/output/class-use/SequenceFileOutputFormat.html
+END

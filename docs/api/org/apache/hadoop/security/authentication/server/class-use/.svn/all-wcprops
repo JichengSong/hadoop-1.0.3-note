@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/server/class-use
+END
+KerberosAuthenticationHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/server/class-use/KerberosAuthenticationHandler.html
+END
+AuthenticationHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/server/class-use/AuthenticationHandler.html
+END
+PseudoAuthenticationHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/server/class-use/PseudoAuthenticationHandler.html
+END
+AuthenticationToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/server/class-use/AuthenticationToken.html
+END
+AuthenticationFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/security/authentication/server/class-use/AuthenticationFilter.html
+END

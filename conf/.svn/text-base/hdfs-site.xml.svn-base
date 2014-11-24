@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+
+  <property>
+    <name>dfs.http.address</name>
+    <value>YZSJHL19-62.opi.com:50070</value>
+  <description>
+    The address and the base port where the dfs namenode web ui will listen on.
+    If the port is 0 then the server will start on a free port.
+    </description>
+  </property>
+  <property>
+    <name>dfs.secondary.http.address</name>
+    <value>YZSJHL19-63.opi.com:50090</value>
+    <description>
+    The secondary namenode http server address and port.
+    If the port is 0 then the server will start on a free port.
+    </description>
+  </property>
+
+  <property>
+    <name>dfs.balance.bandwidthPerSec</name>
+    <value>52428800</value>
+  </property>
+  <property>
+    <name>dfs.hosts.exclude</name>
+    <value>/home/hadoop/hadoop/conf/dfs.exclude</value>
+  </property>
+  <property>
+    <name>dfs.name.dir</name>
+    <value>/data/hadoop/namenode.data.dir,/data1/hadoop/namenode.data.dir</value>
+  </property>
+  <property>
+   <name>dfs.data.dir</name>
+   <value>/data1/hadoop/dfs.data,/data2/hadoop/dfs.data,/data3/hadoop/dfs.data,/data4/hadoop/dfs.data,/data5/hadoop/dfs.data,/data6/hadoop/dfs.data,/data7/hadoop/dfs.data,/data8/hadoop/dfs.data,/data9/hadoop/dfs.data,/data10/hadoop/dfs.data,/data11/hadoop/dfs.data,/data12/hadoop/dfs.data</value>
+  </property>
+  <property>
+    <name>dfs.support.append</name>
+    <value>true</value>
+  </property>
+
+<property>
+  <name>dfs.access.time.precision</name>
+  <value>3600000</value>
+  <description>The access time for HDFS file is precise upto this value.
+               The default value is 1 hour. Setting a value of 0 disables
+               access times for HDFS.
+  </description>
+</property>
+<property>
+    <name>fs.checkpoint.dir</name>
+    <value>/data/hadoop/secondarynamenode.data.dir</value>
+    <description>Determines where on the local filesystem the DFS secondary
+        name node should store the temporary images to merge.
+        If this is a comma-delimited list of directories then the image is
+        replicated in all of the directories for redundancy.
+    </description>
+  </property>
+
+  <property>
+    <name>fs.checkpoint.edits.dir</name>
+    <value>${fs.checkpoint.dir}</value>
+    <description>Determines where on the local filesystem the DFS secondary
+        name node should store the temporary edits to merge.
+        If this is a comma-delimited list of directoires then teh edits is
+        replicated in all of the directoires for redundancy.
+        Default value is same as fs.checkpoint.dir
+    </description>
+  </property>
+ <property>
+    <name>fs.checkpoint.period</name>
+    <value>3600</value>
+    <description>The number of seconds between two periodic checkpoints.
+    </description>
+  </property>
+
+  <property>
+    <name>fs.checkpoint.size</name>
+    <value>67108864</value>
+    <description>The size of the current edit log (in bytes) that triggers
+         a periodic checkpoint even if the fs.checkpoint.period hasn't expired.
+    </description>
+  </property>
+  <property>
+    <name>dfs.replication</name>
+    <value>3</value>
+  </property>
+  <property>
+    <name>dfs.datanode.max.xcievers</name>
+    <value>4096</value>
+  </property>
+
+  <property>
+    <name>dfs.namenode.handler.count</name>
+    <value>200</value>
+    <description>The number of server threads for the namenode.</description>
+  </property>
+
+  <property>
+    <name>dfs.datanode.handler.count</name>
+    <value>100</value>
+    <description>The number of server threads for the datanode.</description>
+  </property>
+
+ <property>
+    <name>dfs.block.size</name>
+    <value>134217728</value>
+  </property>
+  <property>
+    <name>dfs.datanode.du.reserved</name>
+    <value>5000000000</value>
+  </property>
+
+  <property>
+    <name>dfs.datanode.socket.write.timeout</name>
+    <value>480000</value>
+  </property>
+  <property>
+    <name>dfs.socket.timeout</name>
+    <value>180000</value>
+  </property>
+</configuration>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use
+END
+JvmFinishedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/JvmFinishedEvent.html
+END
+JobCompletedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/JobCompletedEvent.html
+END
+UserLogManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/UserLogManager.html
+END
+DeleteJobEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/DeleteJobEvent.html
+END
+UserLogEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/UserLogEvent.html
+END
+JobStartedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/JobStartedEvent.html
+END
+UserLogEvent.EventType.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/server/tasktracker/userlogs/class-use/UserLogEvent.EventType.html
+END

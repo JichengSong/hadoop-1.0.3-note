@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/metrics2/sink/ganglia/class-use
+END
+AbstractGangliaSink.GangliaConfType.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/metrics2/sink/ganglia/class-use/AbstractGangliaSink.GangliaConfType.html
+END
+GangliaSink30.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/metrics2/sink/ganglia/class-use/GangliaSink30.html
+END
+AbstractGangliaSink.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/metrics2/sink/ganglia/class-use/AbstractGangliaSink.html
+END
+GangliaSink31.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/metrics2/sink/ganglia/class-use/GangliaSink31.html
+END
+AbstractGangliaSink.GangliaSlope.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/metrics2/sink/ganglia/class-use/AbstractGangliaSink.GangliaSlope.html
+END

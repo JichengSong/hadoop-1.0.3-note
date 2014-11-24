@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use
+END
+ValueAggregatorMapper.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregatorMapper.html
+END
+ValueAggregatorReducer.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregatorReducer.html
+END
+ValueHistogram.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueHistogram.html
+END
+UserDefinedValueAggregatorDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/UserDefinedValueAggregatorDescriptor.html
+END
+DoubleValueSum.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/DoubleValueSum.html
+END
+ValueAggregatorCombiner.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregatorCombiner.html
+END
+LongValueMin.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/LongValueMin.html
+END
+LongValueMax.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/LongValueMax.html
+END
+ValueAggregatorJobBase.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregatorJobBase.html
+END
+StringValueMin.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/StringValueMin.html
+END
+ValueAggregatorBaseDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregatorBaseDescriptor.html
+END
+StringValueMax.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/StringValueMax.html
+END
+ValueAggregatorJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregatorJob.html
+END
+ValueAggregatorDescriptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregatorDescriptor.html
+END
+ValueAggregator.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/ValueAggregator.html
+END
+LongValueSum.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/LongValueSum.html
+END
+UniqValueCount.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapred/lib/aggregate/class-use/UniqValueCount.html
+END

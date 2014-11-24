@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/security/token/delegation/class-use
+END
+DelegationTokenSecretManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/security/token/delegation/class-use/DelegationTokenSecretManager.html
+END
+DelegationTokenSelector.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/security/token/delegation/class-use/DelegationTokenSelector.html
+END
+DelegationTokenIdentifier.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop/mapreduce/security/token/delegation/class-use/DelegationTokenIdentifier.html
+END

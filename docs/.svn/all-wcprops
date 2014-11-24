@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs
+END
+single_node_setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/single_node_setup.html
+END
+cluster_setup.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/cluster_setup.pdf
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/index.html
+END
+hod_scheduler.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hod_scheduler.html
+END
+service_level_auth.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/service_level_auth.html
+END
+core-default.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/core-default.html
+END
+file_system_shell.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/file_system_shell.html
+END
+libhdfs.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/libhdfs.html
+END
+index.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/index.pdf
+END
+HttpAuthentication.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/HttpAuthentication.html
+END
+libhdfs.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/libhdfs.pdf
+END
+hdfs_quota_admin_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_quota_admin_guide.html
+END
+native_libraries.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/native_libraries.html
+END
+HttpAuthentication.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/HttpAuthentication.pdf
+END
+distcp.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/distcp.html
+END
+webhdfs.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/webhdfs.pdf
+END
+ChangesSimpleStyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/ChangesSimpleStyle.css
+END
+streaming.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/streaming.html
+END
+broken-links.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/broken-links.xml
+END
+linkmap.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/linkmap.html
+END
+mapred_tutorial.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/mapred_tutorial.html
+END
+hdfs_permissions_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_permissions_guide.html
+END
+hadoop_archives.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hadoop_archives.html
+END
+streaming.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/streaming.pdf
+END
+hdfs_user_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_user_guide.html
+END
+linkmap.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/linkmap.pdf
+END
+mapred_tutorial.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/mapred_tutorial.pdf
+END
+gridmix.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/gridmix.html
+END
+commands_manual.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/commands_manual.pdf
+END
+hdfs_user_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_user_guide.pdf
+END
+SLG_user_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/SLG_user_guide.pdf
+END
+hdfs-default.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs-default.html
+END
+changes.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/changes.html
+END
+gridmix.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/gridmix.pdf
+END
+single_node_setup.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/single_node_setup.pdf
+END
+vaidya.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/vaidya.html
+END
+service_level_auth.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/service_level_auth.pdf
+END
+deployment_layout.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/deployment_layout.html
+END
+hod_scheduler.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hod_scheduler.pdf
+END
+hdfs_design.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_design.html
+END
+fair_scheduler.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/fair_scheduler.html
+END
+file_system_shell.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/file_system_shell.pdf
+END
+deployment_layout.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/deployment_layout.pdf
+END
+hdfs_design.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_design.pdf
+END
+webhdfs.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/webhdfs.html
+END
+vaidya.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/vaidya.pdf
+END
+fair_scheduler.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/fair_scheduler.pdf
+END
+hdfs_quota_admin_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_quota_admin_guide.pdf
+END
+native_libraries.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/native_libraries.pdf
+END
+releasenotes.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/releasenotes.html
+END
+mapred-default.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/mapred-default.html
+END
+distcp.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/distcp.pdf
+END
+capacity_scheduler.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/capacity_scheduler.html
+END
+Secure_Impersonation.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/Secure_Impersonation.html
+END
+commands_manual.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/commands_manual.html
+END
+ChangesFancyStyle.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/ChangesFancyStyle.css
+END
+SLG_user_guide.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/SLG_user_guide.html
+END
+capacity_scheduler.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/capacity_scheduler.pdf
+END
+cluster_setup.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/cluster_setup.html
+END
+hdfs_permissions_guide.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hdfs_permissions_guide.pdf
+END
+Secure_Impersonation.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/Secure_Impersonation.pdf
+END
+hadoop_archives.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/hadoop_archives.pdf
+END

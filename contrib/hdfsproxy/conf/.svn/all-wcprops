@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf
+END
+tomcat-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/tomcat-web.xml
+END
+tomcat-forward-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/tomcat-forward-web.xml
+END
+hdfsproxy-hosts
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/hdfsproxy-hosts
+END
+ssl-server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/ssl-server.xml
+END
+hdfsproxy-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/hdfsproxy-env.sh
+END
+user-permissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/user-permissions.xml
+END
+hdfsproxy-default.xml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/hdfsproxy-default.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/log4j.properties
+END
+user-certs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/user-certs.xml
+END
+configuration.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/configuration.xsl
+END
+hdfsproxy-env.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/conf/hdfsproxy-env.sh.template
+END

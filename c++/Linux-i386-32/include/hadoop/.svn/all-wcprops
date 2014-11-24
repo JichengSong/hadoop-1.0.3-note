@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/c++/Linux-i386-32/include/hadoop
+END
+Pipes.hh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/c++/Linux-i386-32/include/hadoop/Pipes.hh
+END
+SerialUtils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/c++/Linux-i386-32/include/hadoop/SerialUtils.hh
+END
+TemplateFactory.hh
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/c++/Linux-i386-32/include/hadoop/TemplateFactory.hh
+END
+StringUtils.hh
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/c++/Linux-i386-32/include/hadoop/StringUtils.hh
+END

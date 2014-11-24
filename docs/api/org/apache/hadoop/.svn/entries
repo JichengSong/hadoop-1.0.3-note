@@ -1,0 +1,264 @@
+10
+
+dir
+567
+http://svn.d.xiaonei.com/hadoop/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/docs/api/org/apache/hadoop
+http://svn.d.xiaonei.com/hadoop
+
+
+
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7101e9bc-2598-4360-9a82-cb1318544075
+
+mapreduce
+dir
+
+metrics
+dir
+
+io
+dir
+
+security
+dir
+
+mapred
+dir
+
+fs
+dir
+
+ipc
+dir
+
+util
+dir
+
+examples
+dir
+
+record
+dir
+
+HadoopVersionAnnotation.html
+file
+
+
+
+
+2014-11-24T06:23:31.024124Z
+1c45eb83696c6bd3150841624e83b15d
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13556
+
+http
+dir
+
+log
+dir
+
+conf
+dir
+
+net
+dir
+
+package-frame.html
+file
+
+
+
+
+2014-11-24T06:23:31.024124Z
+a8223ce35cf54dd88b7e8d647c426388
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+911
+
+metrics2
+dir
+
+package-use.html
+file
+
+
+
+
+2014-11-24T06:23:31.024124Z
+b805a61defd73261c3d824896a2afa08
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5528
+
+streaming
+dir
+
+package-summary.html
+file
+
+
+
+
+2014-11-24T06:23:31.024124Z
+38f9570db6c806ae05d7cb9729eef943
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6182
+
+classification
+dir
+
+package-tree.html
+file
+
+
+
+
+2014-11-24T06:23:31.024124Z
+31c4405dcd507b03c1cfa1a1aee213fd
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6111
+
+typedbytes
+dir
+
+jmx
+dir
+
+class-use
+dir
+
+contrib
+dir
+
+filecache
+dir
+

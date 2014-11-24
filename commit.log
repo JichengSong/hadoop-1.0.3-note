@@ -1,0 +1,47 @@
+commit ee2521281a9a7eb1e9fc3c936794a47212099722
+Author: xianquan.zhang <xianquan.zhang@renren-inc.com>
+Date:   Fri Oct 19 14:46:38 2012 +0800
+
+    添加上次漏提交的文件，即处理实现bz2格式文件的输入流文件
+
+commit a9e63540d3b50f4805efbf46211547b10381a591
+Author: xianquan.zhang <xianquan.zhang@renren-inc.com>
+Date:   Thu Oct 11 17:52:47 2012 +0800
+
+    Add SplitCompressionInputStream and SplittableCompressionCodec class,Support bz2 splittable
+
+commit e77b05feda8daab992178e4289e70ec3a6381dee
+Author: xianquan.zhang <xianquan.zhang@renren-inc.com>
+Date:   Fri Sep 28 17:03:37 2012 +0800
+
+    修复isSplitable()方法中无法生成多个Map Task数bug
+
+commit 624876098dd93d147e488d24e4a172d90632a1be
+Author: Zhang Xianquan <xianquan.zhang@renren-inc.com>
+Date:   Fri Sep 7 13:52:52 2012 +0800
+
+    commit README file to secondary WEB-INF
+
+commit a9e5661c3bf49bd0ffbee10467a3a6a8f8b5ec86
+Author: Zhang Xianquan <xianquan.zhang@renren-inc.com>
+Date:   Tue Sep 4 17:55:47 2012 +0800
+
+    add can't connect jobtracker exception detail.
+
+commit 59f1a362fea96a16db02cdf1e5e226679499d8bd
+Author: Zhang Xianquan <xianquan.zhang@renren-inc.com>
+Date:   Wed Aug 22 14:56:37 2012 +0800
+
+    commit HA function dependency jar
+
+commit 87dc9e51a39bce145ef00a86d9df7da4d1db4344
+Author: Zhang Xianquan <xianquan.zhang@renren-inc.com>
+Date:   Wed Aug 22 14:27:29 2012 +0800
+
+    implement HA and cgroup function,commit all code
+
+commit 291bcb98b6897a6442ad8717a9b75b34bed9c234
+Author: Xianquan Zhang <xianquan.zhang@renren-inc.com>
+Date:   Fri Aug 10 17:32:57 2012 +0800
+
+    import hadoop-1.0.3 source code to respository

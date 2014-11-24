@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/hadoop/!svn/ver/427/hadoop-1.0.3-renren/branches/renren-0.0.1/.eclipse.templates/.launches
+END
+JobTracker.launch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/hadoop/!svn/ver/427/hadoop-1.0.3-renren/branches/renren-0.0.1/.eclipse.templates/.launches/JobTracker.launch
+END
+NameNode.launch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/427/hadoop-1.0.3-renren/branches/renren-0.0.1/.eclipse.templates/.launches/NameNode.launch
+END
+AllTests.launch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/427/hadoop-1.0.3-renren/branches/renren-0.0.1/.eclipse.templates/.launches/AllTests.launch
+END
+TaskTracker.launch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/hadoop/!svn/ver/427/hadoop-1.0.3-renren/branches/renren-0.0.1/.eclipse.templates/.launches/TaskTracker.launch
+END
+DataNode.launch
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/hadoop/!svn/ver/427/hadoop-1.0.3-renren/branches/renren-0.0.1/.eclipse.templates/.launches/DataNode.launch
+END
+SpecificTestTemplate.launch
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/hadoop/!svn/ver/427/hadoop-1.0.3-renren/branches/renren-0.0.1/.eclipse.templates/.launches/SpecificTestTemplate.launch
+END

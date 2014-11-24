@@ -1,0 +1,92 @@
+10
+
+dir
+567
+http://svn.d.xiaonei.com/hadoop/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hod/hodlib
+http://svn.d.xiaonei.com/hadoop
+
+
+
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7101e9bc-2598-4360-9a82-cb1318544075
+
+Common
+dir
+
+GridServices
+dir
+
+ServiceRegistry
+dir
+
+Hod
+dir
+
+HodRing
+dir
+
+RingMaster
+dir
+
+Schedulers
+dir
+
+NodePools
+dir
+
+ServiceProxy
+dir
+
+AllocationManagers
+dir
+
+__init__.py
+file
+
+
+
+
+2014-11-24T06:23:41.492124Z
+a14676ba826c2a99a8b1ed3c24a7d001
+2014-03-24T06:26:59.810222Z
+418
+jicheng.song@XIAONEI.OPI.COM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+771
+

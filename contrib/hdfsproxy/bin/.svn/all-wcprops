@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin
+END
+hdfsproxy-slaves.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin/hdfsproxy-slaves.sh
+END
+start-hdfsproxy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin/start-hdfsproxy.sh
+END
+hdfsproxy-daemon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin/hdfsproxy-daemon.sh
+END
+hdfsproxy-config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin/hdfsproxy-config.sh
+END
+stop-hdfsproxy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin/stop-hdfsproxy.sh
+END
+hdfsproxy-daemons.sh
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin/hdfsproxy-daemons.sh
+END
+hdfsproxy
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/hadoop/!svn/ver/428/hadoop-1.0.3-renren/branches/hadoop-renren-0.0.1.note/contrib/hdfsproxy/bin/hdfsproxy
+END
