@@ -34,7 +34,7 @@ import org.apache.hadoop.io.serializer.Deserializer;
 import org.apache.hadoop.io.serializer.SerializationFactory;
 import org.apache.hadoop.io.serializer.Serializer;
 
-/**
+/**Hadoop的反射工具包
  * General reflection utils
  */
 
@@ -95,7 +95,7 @@ public class ReflectionUtils {
   }
 
   /** Create an object for the given class and initialize it from conf
-   * 
+   * 创建一个给定类的对象，并用给定的配置conf初始化。
    * @param theClass class of which an object is created
    * @param conf Configuration
    * @return a new object
