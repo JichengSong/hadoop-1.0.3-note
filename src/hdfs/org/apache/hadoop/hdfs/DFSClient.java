@@ -2587,39 +2587,39 @@ public class DFSClient implements FSConstants, java.io.Closeable {
    * starts sending packets from the dataQueue.
   ****************************************************************/
   class DFSOutputStream extends FSOutputSummer implements Syncable {
-    private Socket s;
+    private Socket s;//用于和nodes中的第一个datanode(也就是nodes[0]建立连接)
     boolean closed = false;
   
     private String src;
-    private DataOutputStream blockStream;
-    private DataInputStream blockReplyStream;
-    private Block block;
+    private DataOutputStream blockStream;    //套结字s的outputStream，用于向connection写数据
+    private DataInputStream blockReplyStream;//套结字s的inputStream，用于向connection读数据
+    private Block block;                     //当前要操作的block(向block append数据)
     private Token<BlockTokenIdentifier> accessToken;
     final private long blockSize;
-    private DataChecksum checksum;
+    private DataChecksum checksum;          //
     private LinkedList<Packet> dataQueue = new LinkedList<Packet>();
     private LinkedList<Packet> ackQueue = new LinkedList<Packet>();
     private Packet currentPacket = null;
-    private int maxPackets = 80; // each packet 64K, total 5MB
+    private int maxPackets = 80;      // each packet 64K, total 5MB
     // private int maxPackets = 1000; // each packet 64K, total 64MB
-    private DataStreamer streamer = new DataStreamer();;
-    private ResponseProcessor response = null;
-    private long currentSeqno = 0;
+    private DataStreamer streamer = new DataStreamer();//核心线程,负责将dataQueue里的packet通过pipeline写到datanode
+    private ResponseProcessor response = null;         //核心线程,负责响应datanode发来的信息：比如，packet写成功,将其从ackQueue队列删除
+    private long currentSeqno = 0;//packet的序列号
     private long lastQueuedSeqno = -1;
     private long lastAckedSeqno = -1;
     private long bytesCurBlock = 0; // bytes writen in current block
     private int packetSize = 0; // write packet size, including the header.
     private int chunksPerPacket = 0;
-    private DatanodeInfo[] nodes = null; // list of targets for current block
-    private ArrayList<DatanodeInfo> excludedNodes = new ArrayList<DatanodeInfo>();
+    private DatanodeInfo[] nodes = null; //当前block的目标datanode
+    private ArrayList<DatanodeInfo> excludedNodes = new ArrayList<DatanodeInfo>();//datanode黑名单
     private volatile boolean hasError = false;
     private volatile int errorIndex = 0;
     private volatile IOException lastException = null;
     private long artificialSlowdown = 0;
-    private long lastFlushOffset = 0; // offset when flush was invoked
-    private boolean persistBlocks = false; // persist blocks on namenode
-    private int recoveryErrorCount = 0; // number of times block recovery failed
-    private int maxRecoveryErrorCount = 5; // try block recovery 5 times
+    private long lastFlushOffset = 0; // 上一次调用flush时的偏移量：offset when flush was invoked
+    private boolean persistBlocks = false; //当前block是在namenode上持久化: persist blocks on namenode
+    private int recoveryErrorCount = 0; //做block recovery的次数：number of times block recovery failed
+    private int maxRecoveryErrorCount = 5; //block recovery的最大允许尝试次数：try block recovery 5 times
     private volatile boolean appendChunk = false;   // appending to existing partial block
     private long initialFileSize = 0; // at time of file open
     private Progressable progress;
@@ -3913,7 +3913,7 @@ public class DFSClient implements FSConstants, java.io.Closeable {
     void setArtificialSlowdown(long period) {
       artificialSlowdown = period;
     }
-
+    //DFS进行block都写是以packet(默认64k)为单位,每个packet由多个chunk组成(默认512byte)
     synchronized void setChunksPerPacket(int value) {
       chunksPerPacket = Math.min(chunksPerPacket, value);
       packetSize = DataNode.PKT_HEADER_LEN + SIZE_OF_INTEGER +

@@ -23,7 +23,7 @@ import java.util.zip.CRC32;
 
 import java.io.*;
 
-/**
+/**这个类提供DFS数据传输时处理校验和(checksums)所需要的工具和接口
  * This class provides inteface and utilities for processing checksums for
  * DFS data transfers.
  */
