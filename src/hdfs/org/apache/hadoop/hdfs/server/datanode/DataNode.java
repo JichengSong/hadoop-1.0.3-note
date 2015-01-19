@@ -871,7 +871,7 @@ public class DataNode extends Configured
     return threadGroup == null ? 0 : threadGroup.activeCount();
   }
     
-  /**
+  /**这个是datanode的主循环
    * Main loop for the DataNode.  Runs until shutdown,
    * forever calling remote NameNode functions.
    */
@@ -1447,7 +1447,7 @@ public class DataNode extends Configured
    */
   public void run() {
     LOG.info(dnRegistration + "In DataNode.run, data = " + data);
-
+    // datanode启动后，启动核心线程dataXceiverServer和ipcServer。
     // start dataXceiveServer
     dataXceiverServer.start();
     ipcServer.start();
@@ -1863,6 +1863,7 @@ public class DataNode extends Configured
   }
 
   /** Recover a block
+   * keepLength为true时,只恢复和给定block的长度一样的block副本. 如果为false，则计算副本的最小长度,并按最小长度截断.
    * @param keepLength if true, will only recover replicas that have the same length
    * as the block passed in. Otherwise, will calculate the minimum length of the
    * replicas and truncate the rest to that length.
@@ -1871,10 +1872,11 @@ public class DataNode extends Configured
       DatanodeInfo[] targets, boolean closeFile) throws IOException {
 
     DatanodeID[] datanodeids = (DatanodeID[])targets;
+    //1. 如果namenode和client同时发起同一个block的recover请求,则确保只有一个recovering工作在执行.
     // If the block is already being recovered, then skip recovering it.
     // This can happen if the namenode and client start recovering the same
     // file at the same time.
-    synchronized (ongoingRecovery) {
+    synchronized (ongoingRecovery) {//ongoingRecovery记录了正在做recovery的block.
       Block tmp = new Block();
       tmp.set(block.getBlockId(), block.getNumBytes(), GenerationStamp.WILDCARD_STAMP);
       if (ongoingRecovery.get(tmp) != null) {
@@ -1914,7 +1916,7 @@ public class DataNode extends Configured
                 block + ")");
             continue;
           }
-          blockRecords.add(new BlockRecord(id, datanode, info));
+          blockRecords.add(new BlockRecord(id, datanode, info));//将每个datanode回复block时的info存放到blockRecords里.
 
           if (info.wasRecoveredOnStartup()) {
             rwrCount++;
