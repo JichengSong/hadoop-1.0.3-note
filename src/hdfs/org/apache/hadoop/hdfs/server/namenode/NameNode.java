@@ -846,10 +846,10 @@ public class NameNode implements ClientProtocol, DatanodeProtocol,
   public HdfsFileStatus getFileInfo(String src)  throws IOException {
     myMetrics.incrNumFileInfoOps();
     return namesystem.getFileInfo(src);
-  }
+  } 
   /**获取HDFS状态信息*/
   /** @inheritDoc */
-  public long[] getStats() throws IOException {
+  public long[] getStats() throws IOException {   
     return namesystem.getStats();
   }
 

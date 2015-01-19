@@ -2619,7 +2619,7 @@ public class DFSClient implements FSConstants, java.io.Closeable {
     private long lastFlushOffset = 0; // 上一次调用flush时的偏移量：offset when flush was invoked
     private boolean persistBlocks = false; //当前block是在namenode上持久化: persist blocks on namenode
     private int recoveryErrorCount = 0; //做block recovery的次数：number of times block recovery failed
-    private int maxRecoveryErrorCount = 5; //block recovery的最大允许尝试次数：try block recovery 5 times
+    private int maxRecoveryErrorCount = 5; //block recovery的最大允许尝试try block recovery 5 times
     private volatile boolean appendChunk = false;   // appending to existing partial block
     private long initialFileSize = 0; // at time of file open
     private Progressable progress;
@@ -2944,7 +2944,7 @@ public class DFSClient implements FSConstants, java.io.Closeable {
     // Processes reponses from the datanodes.  A packet is removed
     // from the ackQueue when its response arrives. 
     // modified by jicheng.song; Change ResponseProcessor extends Thread to Daemon;
-    // because when a client double call filesystem.append() a same file,client got exeception bu can't exit
+    // because when a client double call filesystem.append() a same file,client got exeception but can't exit
     private class ResponseProcessor extends Daemon {
 
       private volatile boolean closed = false;
@@ -3565,24 +3565,24 @@ public class DFSClient implements FSConstants, java.io.Closeable {
     @Override
     protected synchronized void writeChunk(byte[] b, int offset, int len, byte[] checksum) 
                                                           throws IOException {
-      checkOpen();
+      checkOpen();//确保filesystem没有被关闭
       isClosed();
   
       int cklen = checksum.length;
       int bytesPerChecksum = this.checksum.getBytesPerChecksum(); 
-      if (len > bytesPerChecksum) {
+      if (len > bytesPerChecksum) {//1.如果要写入的数据长度大于每次checksum的数据长度,抛出异常.
         throw new IOException("writeChunk() buffer size is " + len +
                               " is larger than supported  bytesPerChecksum " +
                               bytesPerChecksum);
-      }
+      }                           //2.如果chcksum长度和DFSOutputStream配置的checksum的长度不一致，抛出异常
       if (checksum.length != this.checksum.getChecksumSize()) {
         throw new IOException("writeChunk() checksum size is supposed to be " +
                               this.checksum.getChecksumSize() + 
                               " but found to be " + checksum.length);
       }
-
-      synchronized (dataQueue) {
-  
+                                
+      synchronized (dataQueue) {//
+        // 3. 如果dataQueue满了，则等待，直至有足够空间
         // If queue is full, then wait till we can create  enough space
         while (!closed && dataQueue.size() + ackQueue.size()  > maxPackets) {
           try {
@@ -3591,7 +3591,7 @@ public class DFSClient implements FSConstants, java.io.Closeable {
           }
         }
         isClosed();
-  
+        //4.如果currentPacket为null ,创建一个packet
         if (currentPacket == null) {
           currentPacket = new Packet(packetSize, chunksPerPacket, 
                                      bytesCurBlock);
@@ -3604,7 +3604,7 @@ public class DFSClient implements FSConstants, java.io.Closeable {
                       ", bytesCurBlock=" + bytesCurBlock);
           }
         }
-
+        //5.向currentPacket写入校验和,数据 (也即写入一个chunk?)
         currentPacket.writeChecksum(checksum, 0, cklen);
         currentPacket.writeData(b, offset, len);
         currentPacket.numChunks++;
@@ -3631,7 +3631,7 @@ public class DFSClient implements FSConstants, java.io.Closeable {
             bytesCurBlock = 0;
             lastFlushOffset = 0;
           }
-          enqueueCurrentPacket();
+          enqueueCurrentPacket();//将当前packet写入dataQueue队列
  
           // If this was the first write after reopening a file, then the above
           // write filled up any partial chunk. Tell the summer to generate full 

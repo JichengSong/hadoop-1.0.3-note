@@ -108,7 +108,7 @@ public abstract class Storage extends StorageInfo {
     public StorageDirType getStorageDirType();
     public boolean isOfType(StorageDirType type);
   }
-  
+  //storageType为Node类型；storageDirs为一个StorageDirectory列表，管理一系列的存储目录StorageDirectory.
   private NodeType storageType;    // Type of the node using this storage 
   protected List<StorageDirectory> storageDirs = new ArrayList<StorageDirectory>();
   
@@ -180,9 +180,9 @@ public abstract class Storage extends StorageInfo {
    * One of the storage directories.
    */
   public class StorageDirectory {
-    File              root; // root directory
-    FileLock          lock; // storage lock
-    StorageDirType dirType; // storage dir type
+    File              root; //              根目录 root directory
+    FileLock          lock; // 文件锁         storage lock
+    StorageDirType dirType; // 存储目录的类型  storage dir type
     
     public StorageDirectory(File dir) {
       // default dirType is null
@@ -603,7 +603,7 @@ public abstract class Storage extends StorageInfo {
       }
     }
 
-    /**
+    /**尝试对文件加锁
      * Attempts to acquire an exclusive lock on the storage.
      * 
      * @return A lock object representing the newly-acquired lock or
@@ -616,7 +616,7 @@ public abstract class Storage extends StorageInfo {
       RandomAccessFile file = new RandomAccessFile(lockF, "rws");
       FileLock res = null;
       try {
-        res = file.getChannel().tryLock();
+        res = file.getChannel().tryLock();//尝试获取这个通道上的文件file的独占锁
       } catch(OverlappingFileLockException oe) {
         file.close();
         return null;

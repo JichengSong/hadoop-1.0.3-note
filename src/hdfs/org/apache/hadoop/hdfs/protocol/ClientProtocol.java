@@ -60,7 +60,7 @@ public interface ClientProtocol extends VersionedProtocol {
   ///////////////////////////////////////
   // File contents
   ///////////////////////////////////////
-  /**获取给定文件指定范围的数据所在的blocks的位置.
+  /**获取给定文件指定范围的数据所在的blocks的位置.默认情况下，DFSClient在读文件时，会预取10*defaultBlockSize长度的数据
    * Get locations of the blocks of the specified file within the specified range.
    * DataNode locations for each block are sorted by
    * the proximity to the client.
